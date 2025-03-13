@@ -10,11 +10,11 @@
  ### tecnologia en desarrollo de software 
  ### Institucion universitaria digital de antioquia (iudigital) 
  ### 13 de marzo de 2025
-
+ ## Evidencia de aprendisaje 2
+ 
  <p>Identificar el nivel de conocimiento en los paradigmas de la POO utilizando como plataforma de desarrollo el lenguaje JAVA
 
 1) Realizar un programa de consola que permita realizar las siguientes operaciones
-
 a) Realizar una clase que permita capturar el nombre, apellido, genero, edad, estas propiedades deberán ser definidas mediante el modificador de acceso Privado y permitir que la instancia del objeto creada pueda realizarse directamente mediante la utilización de un método constructor.
 b) Realizar un método que permita Capturar y retornar el nombre y el género de 5 personas capturadas por teclado.
 c) Realizar un método que permita retornar el promedio de las edades capturadas.
