@@ -1,6 +1,6 @@
  # gestor de personas
  ## programacion 1: orientada a objetos basica
- ## s25 evidencia de aprendizaje 2 
+ ## S25 evidencia de aprendizaje 2 
  ### grupo  de trabajo N 7
  ### darwin monsalve noreña 
  ### jorge eliecer cuervo zapata 
@@ -10,4 +10,4 @@
  ### tecnologia en desarrollo de software 
  ### Institucion universitaria digital de antioquia (iudigital) 
  ### 13 de marzo de 2025
- # actividad de aprendizaje 2
+ 
