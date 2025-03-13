@@ -1,4 +1,3 @@
-# gestor de personas
  # gestor de personas
  ## programacion 1: orientada a objetos basica
  ## s25 evidencia de aprendizaje 2 
