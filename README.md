@@ -2,9 +2,9 @@
  ## programacion 1: orientada a objetos basica
  ## S25 evidencia de aprendizaje 2 
  ### grupo  de trabajo N 7
- ### darwin monsalve noreña 
- ### Yancarlos cardenas salazar
- ### jorge eliecer cuervo zapata 
+ ### Darwin Monsalve Noreña 
+ ### Yancarlos Cardenas Salazar
+ ### Jorge Eliecer Cuervo Zapata 
  ### grupo: PREICA2501BO10016
  ### Docente: julian andrez loaiza 
  ### facultad de ingenieria y ciencias agropecuarias 
