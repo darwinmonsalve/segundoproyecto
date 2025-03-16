@@ -3,6 +3,7 @@
  ## S25 evidencia de aprendizaje 2 
  ### grupo  de trabajo N 7
  ### darwin monsalve noreña 
+ ### Yancarlos cardenas salazar
  ### jorge eliecer cuervo zapata 
  ### grupo: PREICA2501BO10016
  ### Docente: julian andrez loaiza 
