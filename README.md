@@ -22,7 +22,7 @@
 <p>d) Realizar un método que permita retornar la cantidad de personas con género Masculino.</p>
 <p>e) Realizar un método que permita retornar la cantidad de personas con género Femenino.</p> 
 
-##Solución:
+## Solución:
 <p>Para el desarrollo de esta actividad, primero declaramos una clase a la cual le definimos los atributos: nombre, apellido, genero y edad los cuales estan determinados por el modificador de acceso privado y por el tipo de dato que le corresponde a cada atributo.
 
 Después creamos el método constructor con los parametros correspondientes a los atributos de la clase, cada uno con su tipo de dato correspondiente y utilizamos "this" para diferenciar el atributo de la clase con el parametro del constructor.
@@ -35,7 +35,7 @@ Luego de eso empezamos a crear el método donde vamos a resibir por consola los 
 
 Continuamos con la creación de los métodos para obtener "nombres y generos", para calcular "promedio de edades", para contar las personas de "genero masculino", también para contar las personas de "genero femenino" y por ultimo el método main que lo utilizamos para imprimir los resultados.<p/>
 
-##Conclusiones:
+## Conclusiones:
 <p>El programa fue probado y demostró ser eficiente en la recolección y el procesamiento de la información de las 5 personas. Recoge los datos por consola, los almacena y los procesa de manera efectiva, para luego generar e imprimir unos informes estadísticos básicos como, nombres y generos, promedio de edades, etc.
 
 Este programa aunque fue un trabajo en grupo, quisimos comenzar a hacerlo cada uno por separado y luego reunirnos y fusionar las ideas, me gusto mucho esta forma de realizarlo porque permite que cada uno desarrolle su lógica y haga una exploración profunda del problema a solucionar, claro esta que al reunir los esfuerzos de los integrantes del grupo y analizar juntos el código nos permitió identificar y corregir errores mejorando así la calidad del programa. pienso que el trabajo en equipo y la colaboración mutua es muy importante porque nos permite compartir conocimientos y experiencias, que hasta el momento son pocos y pocas, pero que de alguna manera enrriquecen nuestro proceso de aprendizaje y mejoran nuestras habilidades.<p/>
